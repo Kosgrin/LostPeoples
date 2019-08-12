@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.pdb
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.dll
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.xml
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\LostPeople.JsonSerializer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\LostPeople.JsonSerializer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\LostPeople.JsonSerializer.csproj.CopyComplete
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.pdb
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\LostPeople.DataAccess.dll
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\LostPeople.DataAccess.pdb
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\LostPeople.DataAccess.dll.config
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.exe.config
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.exe
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.exe

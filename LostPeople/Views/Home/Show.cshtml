@@ -1,0 +1,45 @@
+﻿@model List<LostPeople.DataServices.Models.LostModel>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Show</title>
+</head>
+<body>
+    <h3 class="text-center">ЗНИКЛІ ЛЮДИ В УКРАЇНІ</h3>
+    
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Ім'я</th>
+                    <th>Прізвище</th>
+                    <th>Дата народження</th>
+                    <th>Дата зникнення</th>
+                    <th>Місце зникнення</th>
+                </tr>
+            </thead>
+            @foreach (var lost in Model)
+            {
+                <tbody>
+                    <tr>
+                        <td>@lost.Id</td>
+                        <td>@lost.FIRST_NAME</td>
+                        <td>@lost.LAST_NAME</td>
+                        <td>@lost.BIRTH_DATE</td>
+                        <td>@lost.LOST_DATE</td>
+                        <td>@lost.LOST_PLACE</td>
+                    </tr>
+
+                </tbody>
+            }
+
+        </table>
+
+    </div>
+</body>
+</html>

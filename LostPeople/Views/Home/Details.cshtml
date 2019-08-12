@@ -1,0 +1,36 @@
+﻿@model IEnumerable<LostPeople.DataServices.Models.LostModel>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+ 
+                @foreach (var lost in Model)
+                {
+                    <div class="media">
+                        <img class="d-flex mr-3" data-src="holder.js/64x64?theme=sky" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h4 class="mt-0">@lost.LAST_NAME @lost.FIRST_NAME @lost.MIDDLE_NAME</h4>
+                            <h6>Дата народження: @lost.BIRTH_DATE</h6>
+                            <h6>Зник: @lost.LOST_DATE </h6>
+                            <h6>Місце зникнення: @lost.LOST_PLACE</h6>
+                            <h6>Подано запит до: @lost.OVD</h6>
+                            <h6>@lost.PhotoId</h6>
+                            <h6>@lost.Photo</h6>
+                            
+                            
+                            
+                        </div>
+                    </div>
+               
+                }
+
+
+</body>
+</html>

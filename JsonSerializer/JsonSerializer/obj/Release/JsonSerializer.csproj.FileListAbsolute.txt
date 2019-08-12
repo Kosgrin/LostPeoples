@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.exe.config
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.exe
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.pdb
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.dll
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.xml
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.csproj.CopyComplete
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.exe
+C:\Users\User\source\repos\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.pdb
